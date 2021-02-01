@@ -19,3 +19,5 @@ slug = "scraping"
 **Description**: Avec cette introduction au moissonnage (Web scraping), vous connaîtrez mieux cette technique et serez
   en mesure d'appliquer une méthode pour extraire de l'information sur le Web. Nous verrons aussi les tâches de base
   pour le nettoyage de l'information récoltée.
+
+To ask questions in this session, use "*#session-8*" Slack channel.

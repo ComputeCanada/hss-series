@@ -27,3 +27,5 @@ slug = "dmp"
   verrons ce qu'est la gestion des données en recherche avant de présenter un plan modèle conçu pour les sciences
   humaines et sociales. Enfin, vous découvrirez des ressources et des outils qui vous seront utiles dans la gestion de
   vos données.
+
+To ask questions in this session, use "*#session-3*" Slack channel.

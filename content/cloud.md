@@ -22,3 +22,5 @@ slug = "cloud"
   deux méthodes couramment employées pour générer un site Web dans un environnement infonuagique. Nous conclurons avec
   quelques points importants sur la sécurité des serveurs et signalerons les avantages et inconvénients des deux
   méthodes proposées.
+
+To ask questions in this session, use "*#session-2*" Slack channel.

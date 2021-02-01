@@ -23,3 +23,5 @@ slug = "tools"
   cet atelier, nous examinerons certains outils uniquement Web, ainsi que la manière d'héberger les vôtres dans un
   environnement infonuagique. Après une brève introduction à quelques outils et ressources, nous travaillerons sur
   quelques exemples, une analyse de texte et une capture Web avec visualisation.
+
+To ask questions in this session, use "*#session-5*" Slack channel.

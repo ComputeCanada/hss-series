@@ -25,3 +25,5 @@ slug = "cli"
   peine, sachez que cette façon de procéder résulte souvent en gains de temps significatifs et offre des fonctionnalités
   que les autres outils n'ont pas, particulièrement dans les cas de manipulation de fichiers texte bruts. Cet atelier
   pratique n'exige aucune connaissance préalable et vous fera entrevoir des possibilités pour vos propres projets.
+
+To ask questions in this session, use "*#session-6*" Slack channel.

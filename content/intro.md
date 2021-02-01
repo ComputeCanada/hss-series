@@ -20,3 +20,5 @@ slug = "intro"
   spécifiquement à la recherche en sciences humaines et sociales et illustrerons quelques cas d'utilisation. Vous aurez
   aussi des pistes pour approfondir vos connaissances. Avant de terminer, une période de 20 minutes sera réservée pour
   répondre à vos questions.
+
+To ask questions in this session, use "*#session-1*" Slack channel.

@@ -22,3 +22,5 @@ slug = "photo"
   soutien technique expérimenté pour l'avancement de la recherche en sciences humaines et sociales. Dans cet atelier,
   nous apprendrons à connaître le XSEDE et vous serez à même de constater la puissance de ces infrastructures pour la
   photogrammétrie, avec un tutoriel PhotoScan.
+
+To ask questions in this session, use "*#session-7*" Slack channel.

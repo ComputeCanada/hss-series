@@ -24,3 +24,5 @@ slug = "pm"
   d'autres départements et campus, et même d'autres pays; une bonne planification est essentielle pour que toutes les
   étapes du projet se déroulent avec succès. Cet atelier sera une introduction à plusieurs outils qui sont à votre
   disposition et des exercices pratiques vous aideront à guider votre planification.
+
+To ask questions in this session, use "*#session-4*" Slack channel.

@@ -1,5 +1,5 @@
 +++
-title = "Web Scraping"
+title = "Introduction to Web Scraping"
 slug = "scraping"
 +++
 

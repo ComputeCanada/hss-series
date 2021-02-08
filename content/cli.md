@@ -1,5 +1,5 @@
 +++
-title = "Command Line Interface"
+title = "Taming the Command Line"
 slug = "cli"
 +++
 

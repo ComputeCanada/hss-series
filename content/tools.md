@@ -1,5 +1,5 @@
 +++
-title = "Online tools for DH"
+title = "Out(side) of the Box - Online tools for Humanities and Social Sciences"
 slug = "tools"
 +++
 

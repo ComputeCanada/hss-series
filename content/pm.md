@@ -1,5 +1,5 @@
 +++
-title = "Project Management for DH"
+title = "Project Management for Humanities and Social Sciences"
 slug = "pm"
 +++
 

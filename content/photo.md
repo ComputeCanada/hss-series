@@ -1,5 +1,5 @@
 +++
-title = "Photogrammetry"
+title = "Introduction to Photogrammetry"
 slug = "photo"
 +++
 

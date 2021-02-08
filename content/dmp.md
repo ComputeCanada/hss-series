@@ -1,5 +1,5 @@
 +++
-title = "Data Management Plans"
+title = "Data Management Plans for Humanities and Social Sciences"
 slug = "dmp"
 +++
 

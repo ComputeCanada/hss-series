@@ -9,11 +9,10 @@ slug = "photo"
 
 **Duration / Durée**: 90 minutes
 
-**Description**: National compute infrastructures in North America (Compute Canada and XSEDE) are a compelling
-  alternative, providing no-cost compute allocations for researchers and offering support from technical staff
-  interested in and familiar with humanities computing needs. This workshop will introduce participants to XSEDE, and
-  proceed through a hands-on tutorials on research methods that benefit from the additional compute power provided by
-  this infrastructures, specifically photogrammetry using Metashape.
+**Description**: In North America, the National Computing Infrastructures of the Compute Canada Federation and the
+  Discovery Environment of the XSEDE provide user-fee compute resources and experienced technical support staff for the
+  advancement of research in Humanities and Social Sciences. In this workshop, we will get to know the XSEDE and you
+  will be able to see the power of these infrastructures for photogrammetry, with a Metashape tutorial.
 
 ---
 

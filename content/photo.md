@@ -5,7 +5,7 @@ slug = "photo"
 
 # Introduction à la photogrammétrie
 
-**Presented by / Présenté par**: Katie Chapman Tassie Gniady (Indiana University)
+**Presented by / Présenté par**: Katie Chapman and Tassie Gniady (Indiana University)
 
 **Duration / Durée**: 90 minutes
 

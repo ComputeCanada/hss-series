@@ -15,6 +15,8 @@ slug = "tools"
   own in the cloud. After a quick introduction to some tools and resources, we will work through a couple of examples,
   one web scrape and visualization, and one text analysis.
 
+* [PDF slides in English](/session5e.pdf)
+
 ---
 
 **Description**: Que faites-vous si votre ordinateur personnel n'est plus suffisant pour vos besoins de recherche?
@@ -24,4 +26,4 @@ slug = "tools"
   environnement infonuagique. Après une brève introduction à quelques outils et ressources, nous travaillerons sur
   quelques exemples, une analyse de texte et une capture Web avec visualisation.
 
-To ask questions in this session, use "*#session-5*" Slack channel.
+* [Diapositives PDF en français](/session5f.pdf)

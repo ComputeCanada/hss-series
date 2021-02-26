@@ -14,6 +14,8 @@ slug = "intro"
   researchers. We will give some brief usage cases and next steps if you are interested in exploring Compute Canada
   Federation resources. 20 minutes at the end will be reserved for questions.
 
+* [PDF slides in English](/session1e.pdf)
+
 ---
 
 **Description**: Nous présenterons les ressources et services de la fédération Calcul Canada qui s'adressent
@@ -21,4 +23,4 @@ slug = "intro"
   aussi des pistes pour approfondir vos connaissances. Avant de terminer, une période de 20 minutes sera réservée pour
   répondre à vos questions.
 
-To ask questions in this session, use "*#session-1*" Slack channel.
+* [Diapositives PDF en français](/session1f.pdf)

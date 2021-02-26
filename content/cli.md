@@ -17,6 +17,8 @@ slug = "cli"
   While a very specific use-case will be considered throughout the point of the workshop will be to highlight possible
   future applications that participants might be interested in.
 
+* [PDF slides in English](/session6e.pdf)
+
 ---
 
 **Description**: La ligne de commande est souvent perçue comme étant un pont vers un outil avec lequel il serait
@@ -25,5 +27,3 @@ slug = "cli"
   peine, sachez que cette façon de procéder résulte souvent en gains de temps significatifs et offre des fonctionnalités
   que les autres outils n'ont pas, particulièrement dans les cas de manipulation de fichiers texte bruts. Cet atelier
   pratique n'exige aucune connaissance préalable et vous fera entrevoir des possibilités pour vos propres projets.
-
-To ask questions in this session, use "*#session-6*" Slack channel.

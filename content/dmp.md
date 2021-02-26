@@ -18,6 +18,8 @@ slug = "dmp"
   through the DMP and discuss questions that arise in these research fields, and will wrap-up by looking at some
   resources and tools to help support the management of your data.
 
+* [PDF slides in English](/session3e.pdf)
+
 ---
 
 **Description**: La gestion des données est un aspect clé dans tout projet de recherche. En vue de la nouvelle politique
@@ -28,4 +30,4 @@ slug = "dmp"
   humaines et sociales. Enfin, vous découvrirez des ressources et des outils qui vous seront utiles dans la gestion de
   vos données.
 
-To ask questions in this session, use "*#session-3*" Slack channel.
+* [Diapositives PDF en français](/session3f.pdf)

@@ -15,6 +15,8 @@ slug = "cloud"
   generation, a common use for the cloud. We will finish with a brief discussion of server security and the implications
   it has for the two methods presented for creating websites.
 
+* [PDF slides in English](/session2e.pdf)
+
 ---
 
 **Description**: Avec cet atelier, vous aurez une vue d'ensemble de ce qu'est un nuage et nous décrirons plus en détail
@@ -23,4 +25,4 @@ slug = "cloud"
   quelques points importants sur la sécurité des serveurs et signalerons les avantages et inconvénients des deux
   méthodes proposées.
 
-To ask questions in this session, use "*#session-2*" Slack channel.
+* [Diapositives PDF en français](/session2f.pdf)

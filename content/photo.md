@@ -14,6 +14,11 @@ slug = "photo"
   advancement of research in Humanities and Social Sciences. In this workshop, we will get to know the XSEDE and you
   will be able to see the power of these infrastructures for photogrammetry, with a Metashape tutorial.
 
+A list of the open-source tools mentionned:
+[COLMAP](https://colmap.github.io), [Meshlab](https://www.meshlab.net)
+[MVE](https://www.gcc.tu-darmstadt.de/home/proj/mve), [OpenMVG](https://github.com/openMVG/openMVG)
+[OpenMVS](http://cdcseacave.github.io/openMVS), [VisualSFM](http://ccwu.me/vsfm), [MicMac](https://micmac.ensg.eu).
+
 ---
 
 **Description**: En Amérique du Nord, les infrastructures de calcul nationales de la fédération Calcul Canada et
@@ -21,5 +26,3 @@ slug = "photo"
   soutien technique expérimenté pour l'avancement de la recherche en sciences humaines et sociales. Dans cet atelier,
   nous apprendrons à connaître le XSEDE et vous serez à même de constater la puissance de ces infrastructures pour la
   photogrammétrie, avec un tutoriel Metashape.
-
-To ask questions in this session, use "*#session-7*" Slack channel.

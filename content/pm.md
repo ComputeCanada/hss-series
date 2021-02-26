@@ -16,6 +16,8 @@ slug = "pm"
   success. This session will include introductions to the many invaluable resources out there for researchers as well as
   some hands on exercises in thinking through your projects.
 
+* [PDF slides in English](/session4e.pdf)
+
 ---
 
 **Description**: Vous avez en tête un projet en humanités numériques? Dans cet atelier, nous aborderons les meilleures
@@ -25,4 +27,4 @@ slug = "pm"
   étapes du projet se déroulent avec succès. Cet atelier sera une introduction à plusieurs outils qui sont à votre
   disposition et des exercices pratiques vous aideront à guider votre planification.
 
-To ask questions in this session, use "*#session-4*" Slack channel.
+* [Diapositives PDF en français](/session4f.pdf)

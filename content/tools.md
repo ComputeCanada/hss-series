@@ -17,6 +17,9 @@ slug = "tools"
 
 * [PDF slides in English](/session5e.pdf)
 
+{{< vimeo 517286775 >}}
+<br>
+
 ---
 
 **Description**: Que faites-vous si votre ordinateur personnel n'est plus suffisant pour vos besoins de recherche?

@@ -19,6 +19,9 @@ A list of the open-source tools mentionned:
 [MVE](https://www.gcc.tu-darmstadt.de/home/proj/mve), [OpenMVG](https://github.com/openMVG/openMVG)
 [OpenMVS](http://cdcseacave.github.io/openMVS), [VisualSFM](http://ccwu.me/vsfm), [MicMac](https://micmac.ensg.eu).
 
+{{< vimeo 516984553 >}}
+<br>
+
 ---
 
 **Description**: En Amérique du Nord, les infrastructures de calcul nationales de la fédération Calcul Canada et

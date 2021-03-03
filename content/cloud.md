@@ -17,6 +17,9 @@ slug = "cloud"
 
 * [PDF slides in English](/session2e.pdf)
 
+{{< vimeo 518246541 >}}
+<br>
+
 ---
 
 **Description**: Avec cet atelier, vous aurez une vue d'ensemble de ce qu'est un nuage et nous décrirons plus en détail
@@ -26,3 +29,5 @@ slug = "cloud"
   méthodes proposées.
 
 * [Diapositives PDF en français](/session2f.pdf)
+
+{{< vimeo 518388971 >}}

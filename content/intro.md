@@ -16,6 +16,9 @@ slug = "intro"
 
 * [PDF slides in English](/session1e.pdf)
 
+{{< vimeo 518215349 >}}
+<br>
+
 ---
 
 **Description**: Nous présenterons les ressources et services de la fédération Calcul Canada qui s'adressent
@@ -24,3 +27,5 @@ slug = "intro"
   répondre à vos questions.
 
 * [Diapositives PDF en français](/session1f.pdf)
+
+{{< vimeo 518208919 >}}

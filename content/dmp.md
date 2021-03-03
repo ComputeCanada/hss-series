@@ -20,6 +20,9 @@ slug = "dmp"
 
 * [PDF slides in English](/session3e.pdf)
 
+{{< vimeo 518397005 >}}
+<br>
+
 ---
 
 **Description**: La gestion des données est un aspect clé dans tout projet de recherche. En vue de la nouvelle politique
@@ -31,3 +34,5 @@ slug = "dmp"
   vos données.
 
 * [Diapositives PDF en français](/session3f.pdf)
+
+{{< vimeo 518403990 >}}

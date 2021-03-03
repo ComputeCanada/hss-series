@@ -18,6 +18,9 @@ slug = "pm"
 
 * [PDF slides in English](/session4e.pdf)
 
+{{< vimeo 518416693 >}}
+<br>
+
 ---
 
 **Description**: Vous avez en tête un projet en humanités numériques? Dans cet atelier, nous aborderons les meilleures
@@ -28,10 +31,5 @@ slug = "pm"
   disposition et des exercices pratiques vous aideront à guider votre planification.
 
 * [Diapositives PDF en français](/session4f.pdf)
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe src="https://player.vimeo.com/video/518421712" width="640" height="360" frameborder="0" allow="autoplay; -->
-<!-- 	fullscreen; picture-in-picture" allowfullscreen></iframe> -->
-<!-- </div> -->
 
 {{< vimeo 518421712 >}}

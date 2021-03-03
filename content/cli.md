@@ -19,6 +19,9 @@ slug = "cli"
 
 * [PDF slides in English](/session6e.pdf)
 
+{{< vimeo 516978615 >}}
+<br>
+
 ---
 
 **Description**: La ligne de commande est souvent perçue comme étant un pont vers un outil avec lequel il serait

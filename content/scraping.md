@@ -16,9 +16,11 @@ slug = "scraping"
 
 * [Online materials](https://ubc-library-rc.github.io/intro-web-scraping)
 
+{{< vimeo 517287150 >}}
+<br>
+
 ---
 
 **Description**: Avec cette introduction au moissonnage (Web scraping), vous connaîtrez mieux cette technique et serez
   en mesure d'appliquer une méthode pour extraire de l'information sur le Web. Nous verrons aussi les tâches de base
   pour le nettoyage de l'information récoltée.
-
